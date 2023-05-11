@@ -1,0 +1,64 @@
+body {
+    background-image: url("image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .container {
+    background-color: #f8f8f8;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+
+h2 {
+    color: #555;
+}
+
+.Sinopsis{
+    color: white;
+}
+
+h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  h4 {
+    color: #555;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+
+  form {
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+
+  #descripcion {
+    margin-top: 20px;
+  }
+  
+  .Sinopsis {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+
+.nav-item-hover:hover {
+    background-color: #333;
+    color: #fff;
+  }
+  
+.my-menu {
+    background-color: #ff0000; /* cambia el valor a tu color deseado */
+  }

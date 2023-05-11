@@ -1,0 +1,85 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #aaaa9d; /* Color de fondo agradable */
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos del menú de navegación */
+.navbar {
+  background-color: #ff0000;
+}
+
+.nav-link {
+  color: #ffffff;
+}
+
+.nav-item-hover:hover {
+  background-color: #333333;
+}
+
+
+
+/* Estilos del título de bienvenida */
+#welcome-section {
+  background-color: #c2b9b9;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+
+/* Estilos del carrusel de novedades */
+#news-section {
+  margin-top: 50px;
+}
+
+#news-carousel .carousel-item {
+  height: 500px;
+}
+
+#news-carousel .carousel-caption {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+}
+
+#news-carousel .carousel-caption h3,
+#news-carousel .carousel-caption p {
+  color: #ffffff;
+}
+
+/* Estilos de la sección "Lo más vendido" */
+.best-selling-section {
+  margin-top: 50px;
+}
+
+.best-selling-section .jumbotron {
+  background-color: #c2b9b9;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+.best-selling-section .card-columns {
+  column-count: 2;
+}
+
+.best-selling-section .card {
+  margin-bottom: 30px;
+}
+
+/* Estilos del pie de página */
+footer {
+  background-color: #ff0000;
+  padding: 20px 0;
+}
+
+footer h6 {
+  color: #ffffff;
+  margin: 0;
+}
+
+.card-img-top {
+  object-fit: contain;
+  height: 100%;
+  width: 100%;
+}
